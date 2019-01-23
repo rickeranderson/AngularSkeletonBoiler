@@ -1,6 +1,10 @@
-# AngularSkeleton
+# AngularSkeletonBoiler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+
+## About
+
+This boiler plate project uses both Angular Material and Skeleton as a design framework. Material is being used to generate more usefule components while Skeleton is being used to keep a minimal/clean appearance. Nothing too fancy, mostly used as a general starting point for various projects.
 
 ## Development server
 
@@ -25,3 +29,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Other
+
+Although seemingly abandoned [Skeleton](https://github.com/dhg/Skeleton/tree/gh-pages).
+[Material](https://github.com/angular/material2).
